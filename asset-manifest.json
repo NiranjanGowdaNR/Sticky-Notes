@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sticky-Notes/static/css/main.455597ca.css",
+    "main.js": "/Sticky-Notes/static/js/main.e7374186.js",
+    "static/media/plus.png": "/Sticky-Notes/static/media/plus.f5d4d283910a71769470.png",
+    "static/media/delete (1).svg": "/Sticky-Notes/static/media/delete (1).c184eb9e41969d49b9cae112eb516337.svg",
+    "index.html": "/Sticky-Notes/index.html",
+    "main.455597ca.css.map": "/Sticky-Notes/static/css/main.455597ca.css.map",
+    "main.e7374186.js.map": "/Sticky-Notes/static/js/main.e7374186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455597ca.css",
+    "static/js/main.e7374186.js"
+  ]
+}
